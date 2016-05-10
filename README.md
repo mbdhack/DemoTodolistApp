@@ -1,5 +1,7 @@
 # DemoTodolistApp
 
+A demo of a todolist application using emojis
+
 Best Swift learning resources 
 
 
